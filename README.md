@@ -9,6 +9,8 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/juniormachado5)
 [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junior-machado-069987243/)
 
+![Júnior GitHub stats](https://github-readme-stats.vercel.app/api?username=juniormachado5&show_icons=true&theme=dracula)
+
 
 
 ## Tecnologia que uso no meu dia!
