@@ -11,6 +11,8 @@
 
 ![Júnior GitHub stats](https://github-readme-stats.vercel.app/api?username=juniormachado5&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniormachado5)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## Tecnologia que uso no meu dia!
