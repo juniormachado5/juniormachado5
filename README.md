@@ -5,7 +5,7 @@
 - 😄 Pronouns: ele/dele
 
 
-[![Blog](	https://img.shields.io/website-up-down-green-red/http/monip.org.svg)]()
+[![Blog](	https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://www.gitshowcase.com/juniormachado5)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/juniormachado5)
 [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junior-machado-069987243/)
 
